@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import MenuIcon from '@mui/icons-material/Menu';
 import {IconButton, TextField} from "@mui/material";
 import ProfileHeader from "@/entities/ProfileHeader/ProfileHeader";

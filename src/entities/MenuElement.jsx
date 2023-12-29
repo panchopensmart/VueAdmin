@@ -1,7 +1,5 @@
 import React from 'react';
 import {
-    ListItemIcon,
-    ListItemText,
     Typography
 } from "@mui/material";
 import MenuItem from '@mui/material/MenuItem';
